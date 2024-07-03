@@ -1,0 +1,5 @@
+﻿brainstorming/
+m4_venv/
+notebooks/API_key.txt
+notebooks/.ipynb_checkpoints/
+*.in
