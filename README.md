@@ -8,8 +8,8 @@ Comprehensive analysis of trending YouTube videos within the Entertainment and P
  
 Using K-means clustering, I identified distinct content trends and engagement patterns. The analysis included:
 
- - Textual Clustering: Videos were grouped based on textual similarities in their titles, descriptions, and tags. This clustering was performed monthly to track evolving trends.
-- Behavioral Clustering: Videos were also clustered based on engagement metrics such as views, likes, comments, and shares.
+- Textual Clustering: Videos were grouped based on textual similarities in their titles. This clustering was performed monthly to track evolving trends.
+- Behavioral Clustering: Videos were also clustered based on engagement metrics such as views, likes, comments etc.
 
 Data-Insights:
 
