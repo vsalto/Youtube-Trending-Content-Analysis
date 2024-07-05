@@ -4,7 +4,9 @@ Project in the framework of my bootcamp in Ironhack - Final Project - DATA ANALY
 Info: https://shorturl.at/PBYk3 
 
 
-Comprehensive analysis of trending YouTube videos within the Entertainment and People & Blogs categories. Using K-means clustering, I identified distinct content trends and engagement patterns. The analysis included:
+Comprehensive analysis of trending YouTube videos within the Entertainment and People & Blogs categories (https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data?select=US_youtube_trending_data.csv).
+ 
+Using K-means clustering, I identified distinct content trends and engagement patterns. The analysis included:
 
  - Textual Clustering: Videos were grouped based on textual similarities in their titles, descriptions, and tags. This clustering was performed monthly to track evolving trends.
 - Behavioral Clustering: Videos were also clustered based on engagement metrics such as views, likes, comments, and shares.
