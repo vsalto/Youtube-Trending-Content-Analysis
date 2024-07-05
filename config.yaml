@@ -1,0 +1,17 @@
+data:
+  raw:
+    raw_1: "../data/raw/US_youtube_trending_data.csv"
+    raw_2: "../data/raw/US_category_id.json"
+  clean:
+    clean_1: "../data/clean/data_trending_videos.csv"
+    clean_2: "../data/clean/data_video_current_details.csv"
+    clean_3: "../data/clean/merged_dataframe.csv"
+    clean_4: "../data/clean/comments1.csv"
+    clean_5: "../data/clean/comments2.csv"
+    clean_6: "../data/clean/comments3.csv"
+    clean_7: "../data/clean/comments4.csv"
+    clean_8: "../data/clean/data_for_clustering.csv"
+    
+
+
+
